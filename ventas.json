@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "id_usuario": 1,
+      "fecha": "2026-04-02",
+      "subtotal": 25000,
+      "descuento": true,
+      "importe_descuento": 1000,
+      "total": 24000,
+      "direccion_envio": "Colon 1500, Cordoba",
+      "productos": [
+        { "id_producto": 1, "cantidad": 1 },
+        { "id_producto": 3, "cantidad": 2 }
+      ]
+    },
+    {
+      "id": 2,
+      "id_usuario": 2,
+      "fecha": "2026-01-12",
+      "subtotal": 8000,
+      "descuento": true,
+      "importe_descuento": 2000,
+      "total": 6000,
+      "direccion_envio": "Cacheuta 200, Cordoba",
+      "productos": [
+        { "id_producto": 2, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "id_usuario": 3,
+      "fecha": "2026-02-21",
+      "subtotal": 16000,
+      "descuento": false,
+      "importe_descuento": 0,
+      "total": 16000,
+      "direccion_envio": "Av. Bulnes 3000, Cordoba",
+      "productos": [
+        { "id_producto": 3, "cantidad": 1 },
+        { "id_producto": 1, "cantidad": 1 }
+      ]
+    }
+  ]
