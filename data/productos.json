@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Corpiño Yalile 91",
+    "desc": "Corpiño de mujer taza soft",
+    "categoria": "Mujer",
+    "tipo": "Ropa interior",
+    "precio": 7000,
+    "imagen": "corp-yal-91.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Boxer Intermezzo 351",
+    "desc": "Boxer para hombre de microfibra",
+    "categoria": "Hombre",
+    "tipo": "Ropa interior",
+    "precio": 9000,
+    "imagen": "box-in-351.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Pijama mujer 3",
+    "desc": "Pijama de mujer de algodón mangas largas",
+    "categoria": "Mujer",
+    "tipo": "Pijama",
+    "precio": 9000,
+    "imagen": "pijama-m-3.jpg"
+  }
+]
